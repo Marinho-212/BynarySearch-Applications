@@ -10,7 +10,7 @@ These are the binary search applications that are in this repository:
 2. Allocate Minimum Number of Pages
 3. First and Last Occurrence of a Number
 4. Floor and Ceil
-5.Median of 2 Sorted Arrays of Different Sizes
+5. Median of 2 Sorted Arrays of Different Sizes
 6. Parametric Search Problems
    1. Capacity to Ship Packages Within D Days
    2. Factory Machine
